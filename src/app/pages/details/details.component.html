@@ -1,0 +1,30 @@
+<div class="my-20 mx-auto p-4 w-9/12 h-[480] flex flex-col items-center justify-center border-4 rounded-xl">
+  <div class="w-[500] h-[400px] border-4">
+    <img class="w-max h-full"
+    src="{{ photo }}"
+    alt="img"
+   >
+  </div>
+
+  <div class="font-bold text-xl uppercase mt-12">
+    <h1>{{ detailsTitle }}</h1>
+    <hr />
+  </div>
+
+  <div class="my-12 mx-8">
+    <p >
+      {{ detailsDescription }}
+      <a href="{{ detailsLink }}" target="_blank" class="hover:text-orange-600"> Link do repositório deste projeto no Github.</a>
+    </p>
+
+  </div>
+
+  <div class="border-2 hover:text-gray-900 font-bold p-4 text-amber-900">
+    <a [routerLink]="['']"> << VOLTAR </a>
+  </div>
+
+</div>
+
+<div>
+  <app-footer></app-footer>
+</div>

@@ -1,0 +1,25 @@
+
+
+.header_name > img {
+  border-radius: 100%;
+}
+
+.header_name > a > h2 {
+  border-radius: 100%;
+  color: rgb(255, 8, 0);
+  border: 2px solid red;
+}
+
+.title {
+  font-size: 18px;
+}
+
+.contanier {
+  margin: 0 auto;
+  background-image: url("/assets/bg_inicial.png");
+  height: 564px;
+}
+
+
+
+

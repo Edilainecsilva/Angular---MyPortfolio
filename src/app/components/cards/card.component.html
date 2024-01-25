@@ -1,0 +1,24 @@
+<section class="my-4">
+  <div class="container__big-card">
+
+    <div class="big-card__photo border-2">
+      <img
+        src="{{ photo }}"
+        alt="img"
+      >
+    </div>
+
+    <div class="big-card__title p-4 font-bold">
+      <h1><a [routerLink]="['details', id]">{{ cardTitle }}</a></h1>
+    </div>
+
+    <div class="big-card__description p-4">
+      <p>
+        <a [routerLink]="['details', id]">
+          {{ cardDescription }}
+        </a>
+      </p>
+    </div>
+
+  </div>
+</section>
