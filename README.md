@@ -1,6 +1,21 @@
-# MyPortfolio
 
+# MyPortfolio -  Santander Bootcamp 2023 - Fullstack Java+Angular
+
+![Captura de tela 2023-11-05 192000](https://github.com/Edilainecsilva/my-portfolio/assets/112878712/1f82ca2e-8b6c-40c4-928b-6dae75b9f2f2)
+
+
+Este é um desafio que foi lançado no curso Santander Bootcamp 2023 - Fullstack Java+Angular. Foi passado em aula e pedido melhorias no projeto. Este projeto tem como objetivo, dar um vislumbre dos projetos que tenho desenvolvido, ao longo da minha jornada na trilha de aprendizagem em Desenvolvimento Web e Full Stack. 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
+
+# Referências:
+Esse proejto tem referência com o repositório do nosso Professor Felipe Aguiar, da dio: https://github.com/felipeAguiarCode/angular-blog/tree/main
+
+Prototipação utilizada - Figma: https://www.figma.com/file/AdizY4D8seuXhyIJpZQmB4/my-portfolio?type=design&node-id=0%3A1&mode=design&t=ZSJONFCJzKXD4x8h-1
+
+Todas as imagens utilizadas neste projeto, foram feitas e editadas atráves da plataforma: https://www.canva.com
+
+## Execução e instalação
+Será necessário ter o Nodejs instalado e também o framework Angular.
 
 ## Development server
 
